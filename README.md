@@ -1,0 +1,2 @@
+# AutomatonProject
+Positions , arrows 
